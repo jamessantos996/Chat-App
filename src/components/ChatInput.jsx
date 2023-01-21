@@ -2,7 +2,7 @@ import React from "react";
 
 const ChatInput = () => {
     return (
-        <form className="flex flex-col items-center gap-3 sm:flex-row">
+        <form className="flex flex-col items-center gap-3 px-3 py-2 sm:flex-row">
             <div className="flex">
                 <button className="h-9 w-9">
                     <i class="fa-solid fa-circle-plus text-base text-blue-500"></i>
